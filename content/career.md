@@ -1,0 +1,30 @@
+---
+title: 경력
+description: 신정호의 프론트엔드 개발 경력과 직접 담당한 범위
+---
+
+# 경력
+
+## 씨와이 · 프론트엔드 개발자
+
+`2025.03–현재` · 정규직
+
+- 웹 서비스 화면·API 연동과 운영 이슈 대응을 맡았습니다.
+- 헥토파이낸셜 폐기물 수거 서비스, SR MaaS 레거시 화면 퍼블리싱·통합 테스트, EGI 신용평가 화면·이벤트·API 데이터 바인딩에 참여했습니다.
+- 외부 API의 응답·오류 계약과 화면 상태·서버 상태의 경계를 확인하며 기능을 구현했습니다.
+
+## 씨와이 · 프론트엔드 인턴
+
+`2024.08–2025.02` · 인턴
+
+- PetGround 사용자 홈페이지와 관리자 페이지를 개발했습니다.
+- React·TypeScript·Vite 기반 반응형 화면과 API 연동, 다국어, 입력 검증, 파일 업로드 기능을 구현했습니다.
+
+## 기술
+
+React, TypeScript, JavaScript, Next.js, Vite, HTML/CSS, REST/HTTP, Git, React Hook Form, Zod, SWR, Zustand, Jest, React Testing Library, GitHub Actions, Lighthouse CI, AWS S3, Naver Maps, PG 결제
+
+## 학력·자격
+
+- 대림대학교 컴퓨터정보학부 · `2020.03–2025.02`
+- 정보처리산업기사 · `2025.09`
