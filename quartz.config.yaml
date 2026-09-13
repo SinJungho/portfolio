@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 신정호 | 프론트엔드 개발자
+  pageTitle: 신정호 · 프론트엔드 개발자
   pageTitleSuffix: " · Portfolio"
   enableSPA: true
   enablePopovers: true

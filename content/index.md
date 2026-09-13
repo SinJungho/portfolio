@@ -1,5 +1,5 @@
 ---
-title: 신정호 | 프론트엔드 개발자
+title: 신정호 · 프론트엔드 개발자
 description: React와 TypeScript로 외부 시스템과 사용자 흐름을 연결하는 프론트엔드 개발자 포트폴리오
 ---
 
