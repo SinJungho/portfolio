@@ -1,3 +1,79 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+article .markdown-preview-view {
+  max-width: 72ch;
+  font-size: 1.04rem;
+  line-height: 1.82;
+}
+
+article .markdown-preview-view > h2 {
+  margin-top: 3rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+article .markdown-preview-view > h3 {
+  margin-top: 2.25rem;
+}
+
+article .markdown-preview-view > p:first-of-type,
+article .markdown-preview-view > blockquote:first-of-type {
+  margin-top: 1.25rem;
+}
+
+article blockquote {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem;
+  border-left: 1px solid var(--secondary);
+  background: var(--highlight);
+  color: var(--darkgray);
+}
+
+article table {
+  width: 100%;
+  margin: 1.25rem 0 2rem;
+  border-collapse: collapse;
+  font-size: 0.94em;
+}
+
+article th,
+article td {
+  padding: 0.75rem 0.9rem;
+  border-bottom: 1px solid var(--lightgray);
+  text-align: left;
+  vertical-align: top;
+}
+
+article th {
+  background: var(--highlight);
+  color: var(--dark);
+  font-weight: 650;
+}
+
+article th:first-child,
+article td:first-child {
+  width: 28%;
+}
+
+article li + li {
+  margin-top: 0.45rem;
+}
+
+@media all and ($mobile) {
+  article .markdown-preview-view {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  article table {
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+  }
+
+  article th,
+  article td {
+    min-width: 9rem;
+    padding: 0.65rem 0.75rem;
+  }
+}

@@ -3,9 +3,16 @@ title: 경력
 description: 신정호의 프론트엔드 개발 경력과 직접 담당한 범위
 ---
 
-# 경력
+## 경력 요약
 
-## 씨와이 · 프론트엔드 개발자
+| 기간            | 조직 / 역할                         | 핵심 범위                                  |
+| --------------- | ----------------------------------- | ------------------------------------------ |
+| 2025.03–현재    | 씨와이 · 프론트엔드 개발자 · 정규직 | 웹 서비스 화면·API 연동, 운영 이슈 대응    |
+| 2024.08–2025.02 | 씨와이 · 프론트엔드 인턴            | 사용자 홈페이지·관리자 페이지, 인증·업로드 |
+
+## 경력 상세
+
+### 씨와이 · 프론트엔드 개발자
 
 `2025.03–현재` · 정규직
 
@@ -13,16 +20,21 @@ description: 신정호의 프론트엔드 개발 경력과 직접 담당한 범�
 - 헥토파이낸셜 폐기물 수거 서비스, SR MaaS 레거시 화면 퍼블리싱·통합 테스트, EGI 신용평가 화면·이벤트·API 데이터 바인딩에 참여했습니다.
 - 외부 API의 응답·오류 계약과 화면 상태·서버 상태의 경계를 확인하며 기능을 구현했습니다.
 
-## 씨와이 · 프론트엔드 인턴
+### 씨와이 · 프론트엔드 인턴
 
 `2024.08–2025.02` · 인턴
 
 - PetGround 사용자 홈페이지와 관리자 페이지를 개발했습니다.
 - React·TypeScript·Vite 기반 반응형 화면과 API 연동, 다국어, 입력 검증, 파일 업로드 기능을 구현했습니다.
 
-## 기술
+## 기술 기준
 
-React, TypeScript, JavaScript, Next.js, Vite, HTML/CSS, REST/HTTP, Git, React Hook Form, Zod, SWR, Zustand, Jest, React Testing Library, GitHub Actions, Lighthouse CI, AWS S3, Naver Maps, PG 결제
+| 영역          | 기술                                                       |
+| ------------- | ---------------------------------------------------------- |
+| UI / 앱       | React, TypeScript, JavaScript, Next.js, Vite, HTML/CSS     |
+| 상태 / 폼     | React Hook Form, Zod, SWR, Zustand                         |
+| 검증 / 배포   | Jest, React Testing Library, GitHub Actions, Lighthouse CI |
+| 연동 / 인프라 | REST/HTTP, AWS S3, Naver Maps, PG 결제, Git                |
 
 ## 학력·자격
 
